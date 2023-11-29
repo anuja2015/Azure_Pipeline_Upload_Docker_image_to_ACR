@@ -1,0 +1,1 @@
+# Azure_Pipeline_Upload_Docker_image_to_ACR
